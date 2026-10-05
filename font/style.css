@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Subhra;
+    src: url('./magnetic-italic.ttf');
+
+}
 *{
     margin: 0px;
     padding: 0px;
